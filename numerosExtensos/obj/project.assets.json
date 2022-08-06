@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gomes\\Desktop\\Stephanie\\ESTUDOS\\C#\\numerosExtensos\\numerosExtensos.csproj",
+      "projectUniqueName": "C:\\Users\\gomes\\GITHUB\\Numeros-por-extenso\\N-meros-por-extenso\\numerosExtensos\\numerosExtensos.csproj",
       "projectName": "numerosExtensos",
-      "projectPath": "C:\\Users\\gomes\\Desktop\\Stephanie\\ESTUDOS\\C#\\numerosExtensos\\numerosExtensos.csproj",
+      "projectPath": "C:\\Users\\gomes\\GITHUB\\Numeros-por-extenso\\N-meros-por-extenso\\numerosExtensos\\numerosExtensos.csproj",
       "packagesPath": "C:\\Users\\gomes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gomes\\Desktop\\Stephanie\\ESTUDOS\\C#\\numerosExtensos\\obj\\",
+      "outputPath": "C:\\Users\\gomes\\GITHUB\\Numeros-por-extenso\\N-meros-por-extenso\\numerosExtensos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

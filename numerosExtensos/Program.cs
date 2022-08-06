@@ -101,12 +101,16 @@ namespace numerosExtensos
 
             static string extenseDezena(string dezena, string unidade)
             {
+                if (dezena == "0")
+                {
+                    return "";
+                }
                 switch (dezena)
                 {
                     case "1":
                         if (unidade == "0")
                         {
-                            dezena = "e dez";
+                            dezena = "dez";
                         }
                         else
                         {
@@ -115,49 +119,42 @@ namespace numerosExtensos
                         break;
 
                     case "2":
-                        dezena = "";
                         dezena = "vinte ";
                         break;
 
                     case "3":
-                        dezena = "";
                         dezena = "trinta ";
                         break;
 
                     case "4":
-                        dezena = "";
                         dezena = "quarenta ";
                         break;
 
                     case "5":
-                        dezena = "";
                         dezena = "cinquenta ";
                         break;
 
                     case "6":
-                        dezena = "";
                         dezena = "sessenta ";
                         break;
 
                     case "7":
-                        dezena = "";
                         dezena = "setenta ";
                         break;
 
                     case "8":
-                        dezena = "";
                         dezena = "oitenta ";
                         break;
 
                     case "9":
-                        dezena = "";
                         dezena = "noventa ";
                         break;
 
                     default:
+                        dezena = "";
                         break;
                 }
-                if (unidade != "0")
+                if (unidade != "0" && dezena != "0")
                 {
                     if (dezena == "0")
                     {
@@ -173,6 +170,10 @@ namespace numerosExtensos
 
             static string extenseCentena(string centena, string dezena, string unidade)
             {
+                if (centena == "0")
+                {
+                    return "";
+                }
                 if (dezena != "0" || unidade != "0")
                 {
                     if (centena == "1")
@@ -224,6 +225,7 @@ namespace numerosExtensos
                         break;
 
                     default:
+                        centena = "";
                         break;
                 }
                 if (unidade != "0" || dezena != "0")
@@ -332,7 +334,6 @@ namespace numerosExtensos
             {
                 arrayNum.Add(num[i]);
             }
-           // string[] arrayNum = num.Split(" ");
             string[] extenseNum = {"0", "0", "0", "0", "0", "0", "0", "0", "0", "0" };
             int j = 9;
             for (int i = arrayNum.Count - 1; i >= 0; i--)

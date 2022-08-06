@@ -12,3 +12,17 @@ C:\Users\gomes\Desktop\Stephanie\ESTUDOS\C#\numerosExtensos\obj\Debug\netcoreapp
 C:\Users\gomes\Desktop\Stephanie\ESTUDOS\C#\numerosExtensos\obj\Debug\netcoreapp3.1\numerosExtensos.dll
 C:\Users\gomes\Desktop\Stephanie\ESTUDOS\C#\numerosExtensos\obj\Debug\netcoreapp3.1\numerosExtensos.pdb
 C:\Users\gomes\Desktop\Stephanie\ESTUDOS\C#\numerosExtensos\obj\Debug\netcoreapp3.1\numerosExtensos.genruntimeconfig.cache
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\bin\Debug\netcoreapp3.1\numerosExtensos.exe
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\bin\Debug\netcoreapp3.1\numerosExtensos.deps.json
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\bin\Debug\netcoreapp3.1\numerosExtensos.runtimeconfig.json
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\bin\Debug\netcoreapp3.1\numerosExtensos.runtimeconfig.dev.json
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\bin\Debug\netcoreapp3.1\numerosExtensos.dll
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\bin\Debug\netcoreapp3.1\numerosExtensos.pdb
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\obj\Debug\netcoreapp3.1\numerosExtensos.csproj.AssemblyReference.cache
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\obj\Debug\netcoreapp3.1\numerosExtensos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\obj\Debug\netcoreapp3.1\numerosExtensos.AssemblyInfoInputs.cache
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\obj\Debug\netcoreapp3.1\numerosExtensos.AssemblyInfo.cs
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\obj\Debug\netcoreapp3.1\numerosExtensos.csproj.CoreCompileInputs.cache
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\obj\Debug\netcoreapp3.1\numerosExtensos.dll
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\obj\Debug\netcoreapp3.1\numerosExtensos.pdb
+C:\Users\gomes\GITHUB\Numeros-por-extenso\N-meros-por-extenso\numerosExtensos\obj\Debug\netcoreapp3.1\numerosExtensos.genruntimeconfig.cache
