@@ -271,6 +271,11 @@ namespace numerosExtensos
                 {
                     return "";
                 }
+                if (unidadeMilhonar == "1")
+                {
+                    unidadeMilhonar = extenseUnidade(unidadeMilhonar, dezenaMilhonar) + "milhão ";
+                    return unidadeMilhonar;
+                }
                 unidadeMilhonar = extenseUnidade(unidadeMilhonar, dezenaMilhonar) + "milhões ";
                 return unidadeMilhonar;
             }
@@ -310,20 +315,6 @@ namespace numerosExtensos
                 return unidadeBilhar;
             }
 
-            #region "Bilhões Comentado"
-
-            //  static string extenseDezenaBilhar(string dezenaBilhar)
-            //  {
-            //      dezenaBilhar = extenseDezena(dezenaBilhar);
-            //      return dezenaBilhar;
-            //  }
-
-            //   static string extenseCentenaBilhar(string centenaBilhar)
-            //   {
-            //       centenaBilhar = extenseCentena(centenaBilhar);
-            //       return centenaBilhar;
-            //   }
-            #endregion
             #endregion
 
             Console.Write("Insira um número inteiro: ");
