@@ -186,48 +186,19 @@ namespace numerosExtensos
                         return centena;
                     }
                 }
-                switch (centena)
+                centena = centena switch
                 {
-                    case "1":
-                        centena = " e cem";
-                        break;
-
-                    case "2":
-                        centena = "duzentos ";
-                        break;
-
-                    case "3":
-                        centena = "trezentos ";
-                        break;
-
-                    case "4":
-                        centena = "quatrocentos ";
-                        break;
-
-                    case "5":
-                        centena = "quinhentos ";
-                        break;
-
-                    case "6":
-                        centena = "seiscentos ";
-                        break;
-
-                    case "7":
-                        centena = "setecentos ";
-                        break;
-
-                    case "8":
-                        centena = "oitocentos ";
-                        break;
-
-                    case "9":
-                        centena = "novecentos ";
-                        break;
-
-                    default:
-                        centena = "";
-                        break;
-                }
+                    "1" => " e cem",
+                    "2" => "duzentos ",
+                    "3" => "trezentos ",
+                    "4" => "quatrocentos ",
+                    "5" => "quinhentos ",
+                    "6" => "seiscentos ",
+                    "7" => "setecentos ",
+                    "8" => "oitocentos ",
+                    "9" => "novecentos ",
+                    _ => "",
+                };
                 if (unidade != "0" || dezena != "0")
                 {
                     centena += "e ";
